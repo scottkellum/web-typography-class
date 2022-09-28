@@ -1,3 +1,3 @@
 <!-- @format -->
 
-# [CSS initiatives](https://css.typetura.com)
+# [class.scottkellum.com](https://class.scottkellum.com)
