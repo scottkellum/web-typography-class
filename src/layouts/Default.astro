@@ -1,0 +1,36 @@
+---
+import '../styles/styles.scss';
+
+import Head from "../components/Head.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+import XElement from 'astro-xelement'
+---
+
+<!DOCTYPE html>
+<html lang="en">
+    <Head />
+<body>
+    <Header />
+
+    <XElement @is="main"
+        @resize={element => {
+            element.target.style.setProperty('--bind', element.target.clientWidth)
+        }}          
+    >
+        <slot />
+    </XElement>
+
+    <Footer />
+
+    <script>
+        const root = document.documentElement;
+        function rootSize() {
+            root.style.setProperty('--bind', window.innerWidth);
+        }
+
+        window.onresize = rootSize;
+    </script>
+</body>
+</html>
