@@ -32,4 +32,4 @@ layout: /src/layouts/Default.astro
   - [Leading-trim](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
   - [Initial-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter)
 
-### [Week 2](week2)
+### [Week 2](/week2)

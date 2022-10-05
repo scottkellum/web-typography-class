@@ -24,4 +24,4 @@ layout: /src/layouts/Default.astro
 - [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions), [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions), and [animatable/transitionable properites](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
   - [Reduce motion media query](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion)
 
-### [Week 7](week7)
+### [Week 7](/week7)

@@ -24,22 +24,22 @@ As you build up your skills and confidence with web typography, we’ll get into
 
 ## Weekly class overview
 
-### [Week 1: Introduction to web typography](week1)
+### [Week 1: Introduction to web typography](/week1)
 
-### [Week 2: Units, spacing, and Hierarchy](week2)
+### [Week 2: Units, spacing, and Hierarchy](/week2)
 
-### [Week 3: Fluid responsive sizing](week3)
+### [Week 3: Fluid responsive sizing](/week3)
 
-### [Week 4: Selecting fonts](week4)
+### [Week 4: Selecting fonts](/week4)
 
-### [Week 5: Variable fonts](week5)
+### [Week 5: Variable fonts](/week5)
 
-### [Week 6: Text effects](week6)
+### [Week 6: Text effects](/week6)
 
-### [Week 7: Review + UI Typography](week7)
+### [Week 7: Review + UI Typography](/week7)
 
-### [Week 8: Workshop](week8)
+### [Week 8: Workshop](/week8)
 
-### [Week 9: Workshop](week9)
+### [Week 9: Workshop](/week9)
 
-### [Week 10: Final presentation](week10)
+### [Week 10: Final presentation](/week10)

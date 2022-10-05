@@ -11,4 +11,4 @@ layout: /src/layouts/Default.astro
 - Start workshopping final projects
 - Discuss project progress
 
-### [Week 8](week8)
+### [Week 8](/week8)

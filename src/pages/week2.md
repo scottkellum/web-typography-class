@@ -16,4 +16,4 @@ layout: /src/layouts/Default.astro
 - Discuss hierarchy for both editorial and product design
 - [Exercise 2](https://codepen.io/scottkellum/pen/qBYxojr)
 
-### [Week 3](week3)
+### [Week 3](/week3)

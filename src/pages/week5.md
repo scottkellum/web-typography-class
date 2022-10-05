@@ -29,4 +29,4 @@ layout: /src/layouts/Default.astro
   - [Future Fonts](https://www.futurefonts.xyz/)
   - [Google Fonts](https://fonts.google.com/)
 
-### [Week 6](week6)
+### [Week 6](/week6)

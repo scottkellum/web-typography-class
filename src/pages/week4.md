@@ -46,4 +46,4 @@ layout: /src/layouts/Default.astro
   - [Fontshare](https://www.fontshare.com/)
 - [Popular fonts of 2022](https://almanac.httparchive.org/en/2022/fonts#families--foundries)
 
-### [Week 5](week5)
+### [Week 5](/week5)

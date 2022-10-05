@@ -8,4 +8,4 @@ layout: /src/layouts/Default.astro
 
 Workshop final projects
 
-### [Week 9](week9)
+### [Week 9](/week9)

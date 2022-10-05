@@ -36,4 +36,4 @@ layout: /src/layouts/Default.astro
 - [Typetura](https://docs.typetura.com/)
 - [Typetura app](https://app.typetura.com/)
 
-### [Week 4](week4)
+### [Week 4](/week4)
