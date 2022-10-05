@@ -24,4 +24,12 @@ layout: /src/layouts/Default.astro
 - [Terminology glossary](https://css.typetura.com/glossary/)
 - [Primer on HTML and CSS](http://www.dontfeartheinternet.com/)
 
+## Links from class
+
+- [Scott’s CodePen from class](https://codepen.io/scottkellum/pen/xxjJZNd/92e1fbfad406d0f618d71517dfe5d522?editors=1100)
+- [MDN for CSS references etc](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Future CSS
+  - [Leading-trim](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
+  - [Initial-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter)
+
 ### [Week 2](week2)
