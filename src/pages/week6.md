@@ -14,7 +14,6 @@ layout: /src/layouts/Default.astro
 
 - [Basic text effect approaches](https://codepen.io/scottkellum/pen/poWWMeO)
 - [COLRv1 Fonts overview](https://css-tricks.com/colrv1-and-css-font-palette-web-typography/)
-
 - [SVG filter/displacement effect](https://codepen.io/scottkellum/pen/KbrOPW?editors=1100)
 - [Deep dive into SVG filter/displacement effects](https://www.smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/)
 - [COLRv1 effect demo](https://codepen.io/scottkellum/pen/ExLNjzj)
@@ -23,5 +22,12 @@ layout: /src/layouts/Default.astro
 - [WebGL text effect library](https://blotter.js.org/)
 - [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions), [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions), and [animatable/transitionable properites](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
   - [Reduce motion media query](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion)
+
+Additional links
+
+- https://codepen.io/scottkellum/pen/KbrOPW
+- https://codepen.io/scottkellum/pen/eYVeMGM
+- https://codepen.io/xdesro/pen/ydobWe
+- https://codepen.io/jonyablonski
 
 ### [Week 7](/week7)
